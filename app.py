@@ -79,4 +79,4 @@ def excluir_termo(termo_id):
 
 
 if __name__ == '__main__':
-    app.run().
+    app.run()
